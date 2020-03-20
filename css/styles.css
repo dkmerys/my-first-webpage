@@ -1,22 +1,32 @@
 h1 {
-  color: #0000ff;
+  color: white;
   text-align: center;
+  
 }
 
 h2 {
   font-style: italic;
   text-align: center;
+  color: white;
 }
 
+h3 {
+  color: white;
+}
 p{
   font-family: sans-serif;
+  color: white;
 }
 
 ul{
   font-size: 20px;
   line-height: 30px;
+  color: white;
 }
 
+ol {
+  color: white;
+}
 .miguel {
   max-width: 300px;
   max-height: 400px;
@@ -35,4 +45,9 @@ ul{
 #jake {
   max-width: 300px;
   max-height: 300px;
+}
+
+html {
+  background: url(https://external-preview.redd.it/MuVZHsE8LtMLPynJsM8_XdsKYJmWT1eCopeodfiUMDc.jpg?width=1024&auto=webp&s=07b96ab4225626463ec6de3d43a3be271497bd72) no-repeat center center fixed;
+  background-size: cover; 
 }
